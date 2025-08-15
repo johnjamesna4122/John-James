@@ -1,0 +1,122 @@
+
+
+
+
+119
+
+120
+
+121
+
+122
+
+123
+
+124
+
+125
+
+126
+
+127
+
+128
+
+129
+
+130
+
+131
+
+132
+
+133
+
+134
+
+135
+
+136
+
+137
+
+138
+
+139
+
+140
+
+141
+
+142
+
+143
+
+144
+
+145
+
+146
+
+147
+
+148
+
+149
+
+150
+
+151
+
+152
+
+153
+
+154
+
+155
+
+156
+
+  font-size: 1em;
+
+  height: 2.2em;
+
+  padding: 0 2.5em 0 1em;
+
+  width: 100%;
+
+}
+
+.neighborhood-discovery .search-input button {
+
+  position: absolute;
+
+  right: 0.8em;
+
+  top: 0.8em;
+
+}
+
+.neighborhood-discovery .show-more-button {
+
+  bottom: 0.5em;
+
+  display: none;
+
+  left: 28%;
+
+  line-height: 1.5em;
+
+  padding: 0.6em;
+
+  position: relative;
+
+  width: 44%;
+
+}
+
+.neighborhood-discovery .show-more-button.sticky {
+
+  background:  
+

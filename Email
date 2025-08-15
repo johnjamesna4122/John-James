@@ -1,0 +1,15 @@
+const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+#/;
+
+// Test the regex with some examples
+const testEmails = [
+    "Marble@abundancemarble.com",
+    "invalid-email",
+    "another.test@abundancemarble.co",
+    "@abundancemarble.localpart",
+    "abundancemarble.com",
+    "marble@abundancemarble.com.com"
+];
+
+testEmails.forEach(email => {marble@abundancemarble.com 
+    console.log(`Is "#{email}" a valid email?`, emailRegex.test(email));
+});

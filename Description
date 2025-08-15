@@ -1,0 +1,36 @@
+import * as React from 'react';
+import './style.css';
+import { Dialog } from '@primer/react/drafts';
+import { FormControl, Autocomplete, ThemeProvider } from '@primer/react';
+
+export default function App() {
+  const [dialogOpen, setDialogOpen] = React.useState(false);
+  const [autocompleteTemplateList] = React.useState([]);
+  const [selectedAutocompleteItemIds] = React.useState([]);
+
+  React.useEffect(() => {
+    setDialogOpen(true);
+  }, []);
+
+  if (!dialogOpen) return null;
+  return (
+    <ThemeProvider>
+      <Dialog>
+        <FormControl>
+          <FormControl.Label visuallyHidden>Search templates</FormControl.Label>
+          <Autocomplete>
+            <Autocomplete.Input />
+            <Autocomplete.Overlay>
+              <Autocomplete.Menu
+                items={autocompleteTemplateList}
+                selectedItemIds={selectedAutocompleteItemIds}
+              />
+            </Autocomplete.Overlay>
+          </Autocomplete>
+        </FormControl>
+      </Dialog>
+    </ThemeProvider>
+  );
+}
+
+with this component open, focus the input, and note that it's _behind_ the dialog/modal

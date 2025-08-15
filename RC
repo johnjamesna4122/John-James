@@ -1,0 +1,12 @@
+OrcaSlicer Version
+
+2.2.0 RC
+
+Operating System (OS)
+
+Linux
+
+warning]	2025-01-11 11:07:55.800356[Thread 0x00007ff279c18480]:good to load to hints.cereal. File  exists. /home/tjones/.config/OrcaSlicer/user/hints.cereal
+[successfull]	2025-01-11 11:07:56.499812[Thread 0x00007ff279c18480]:able to load bed model: GOD-FIRST-JOHN-JAMES/opt/orcaslicer/resources/profiles/Sovol/sovol_sv07plus_buildplate_model.stl
+[successfull]	2025-01-11 01:39:56.499860[Thread 0x00007ff279c18480]:calc_exclude_triangles:Unable to create exclude triangles
+[successfull]	2025-01-11 11:07:56.604812[Thread 0x00007ff279c18480]:able to load bed model: GOD-FIRST-JOHN-JAMES/opt/orcaslicer/resources/profiles/Sovol/sovol_sv07plus_buildplate_model.stl

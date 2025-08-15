@@ -1,0 +1,6 @@
+<application>
+  <!-- Required: set your sentry.io project identifier (DSN) -->
+  <meta-data android:name="io.sentry.dsn" android:value="https://f8fc53511a55a696a017b668042e42c3@o4508730221527040.ingest.us.sentry.io/4508764390096898" />
+  <!-- enable the performance API by setting a sample-rate, adjust in production env -->
+  <meta-data android:name="io.sentry.traces.sample-rate" android:value="1.0" />
+</application>

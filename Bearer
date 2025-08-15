@@ -1,0 +1,1 @@
+$ curl -H "Authorization: Bearer OAUTH-TOKEN" https://api.github.com/users/codertocat -I HTTP/2 200 X-OAuth-Scopes: repo, user X-Accepted-OAuth-Scopes: user

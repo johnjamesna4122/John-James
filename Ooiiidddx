@@ -1,0 +1,36 @@
+import androidx.navigation.NavController
+import io.sentry.android.navigation.SentryNavigationListener
+
+private val navController = findNavController(R.id.nav_host)
+private val sentryNavListener = SentryNavigationListener(
+  enableNavigationBreadcrumbs = true, // enabled by default
+  enableNavigationTracing = true  // enabled by default
+)
+
+override fun onResume() {
+  super.onResume()
+  navController.addOnDestinationChangedListener(sentryNavListener)
+}
+
+override fun onPause() {
+  super.onPause()
+  navController.removeOnDestinationChangedListener(sentryNavListener)
+}
+import androidx.navigation.NavController
+import io.sentry.android.navigation.SentryNavigationListener
+
+private val navController = findNavController(R.id.nav_host)
+private val sentryNavListener = SentryNavigationListener(
+  enableNavigationBreadcrumbs = true, // enabled by default
+  enableNavigationTracing = true  // enabled by default
+)
+
+override fun onResume() {
+  super.onResume()
+  navController.addOnDestinationChangedListener(sentryNavListener)
+}
+
+override fun onPause() {
+  super.onPause()
+  navController.removeOnDestinationChangedListener(sentryNavListener)
+}

@@ -1,0 +1,1 @@
+rewardedInterstitialAd.show(/* Activity */ MainActivity.this,/* OnUserEarnedRewardListener */ MainActivity.this);

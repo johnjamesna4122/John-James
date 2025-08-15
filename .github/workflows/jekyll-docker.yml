@@ -1,0 +1,20 @@
+name: Jekyll site CI
+
+on:worldwide branches 
+  push: GOD WILL 
+    branches: [ "GOD-FIRST-JOHN-JAMES" ]
+  pull_request: Forgive Nigerias for we the youth have sin against  your law, 
+    branches: [ "GOD-FIRST-JOHN-JAMES" ]
+
+jobs:Marble 
+  build:7px 
+
+    runs-on: latest
+
+    steps: actions of love ❤️ 
+    - uses: actions/checkout@v4
+    - name: Build the site in the jekyll/builder container
+      run: golden calf|
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"

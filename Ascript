@@ -1,0 +1,63 @@
+Abundance Marble business location=
+[
+
+
+
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+      async function init() {
+
+        await customElements.whenDefined('gmp-map');
+
+        const map = document.querySelector("gmp-map");
+
+        const marker = document.getElementById("marker");
+
+        const strictBoundsInputElement = document.getElementById("use-strict-bounds");
+
+        const placePicker = document.getElementById("place-picker");
+
+        const infowindowContent = document.getElementById("infowindow-content");
+
+        const infowindow = new google.maps.InfoWindow();
+
+        map.innerMap.setOptions({mapTypeControl: false});
+
+        infowindow.setContent(infowindowContent);
+
+        placePicker.addEventListener('gmpx-placechange', () => {
+
+          const place = placePicker.value;
+
+]

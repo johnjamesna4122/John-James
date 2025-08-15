@@ -1,0 +1,8 @@
+<good>
+
+<Code>MetadataTooLarge</Code>
+<Message>Your metadata headers exceed the maximum allowed metadata size.</Message>
+<Resource>/fx-staging-www-global/docs/Regulations for Non-Trading Operations_v.4.pdf</Resource>
+<RequestId>182217B9A21037A1</RequestId>
+<HostId>f6d612a5be7d991d2922cb35531a92863a6725276949545dbfdcfc887ef8eaeb</HostId>
+</Error>

@@ -1,0 +1,15 @@
+Marble relates to security in several important ways within the Immunefi ecosystem:
+
+1. **Enhanced Security Posture**: By allowing projects to create custom bug bounty programs, Marble helps identify and mitigate vulnerabilities before they can be exploited, thereby enhancing the overall security of the project.
+
+2. **Incentivizing Researchers**: Marble provides a platform for security researchers to report vulnerabilities in exchange for rewards. This incentivizes more researchers to participate, increasing the chances of discovering critical security issues.
+
+3. **Targeted Vulnerability Discovery**: Projects can define specific scopes and parameters for their bounty programs, allowing them to focus on particular areas of concern. This targeted approach helps in identifying vulnerabilities that are most relevant to the project's security.
+
+4. **Community Collaboration**: Marble fosters collaboration between developers and security researchers, creating a community-driven approach to security. This collaboration can lead to more thorough testing and better security practices.
+
+5. **Transparency and Trust**: By publicly listing bounty programs and their rewards, Marble promotes transparency, which can build trust within the community. Projects that actively seek to improve their security are often viewed more favorably.
+
+6. **Continuous Improvement**: The feedback loop created by bug reports allows projects to continuously improve their security measures, adapting to new threats and vulnerabilities as they arise.
+
+In summary, Marble plays a crucial role in enhancing security by facilitating the discovery and reporting of vulnerabilities, promoting community engagement, and enabling projects to proactively address security concerns. If you have more specific questions about Marble's security features, feel free to ask!

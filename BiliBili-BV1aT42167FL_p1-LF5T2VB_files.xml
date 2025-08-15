@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BV1aT42167FL_p1-ai-zh.srt" source="original">
+    <mtime>1722092310</mtime>
+    <size>3195</size>
+    <md5>00951a6e06d7dbdc89b202d99d69a724</md5>
+    <crc32>97794e6e</crc32>
+    <sha1>f5b80d31d5f48a615f6de375fcb58fafb7fd2276</sha1>
+    <format>SubRip</format>
+    <viruscheck>1722093892</viruscheck>
+  </file>
+  <file name="BV1aT42167FL_p1-弹幕.ass" source="original">
+    <mtime>1722092349</mtime>
+    <size>805</size>
+    <md5>9fd41b923e87f5a0e23b803ff9d9fc7d</md5>
+    <crc32>78f8eba2</crc32>
+    <sha1>c3deaa7f85eb97a0d7dd3c9fd05b69fc5c8fbcc2</sha1>
+    <format>Unknown</format>
+    <viruscheck>1722093892</viruscheck>
+  </file>
+  <file name="BV1aT42167FL_p1-弹幕.pb" source="original">
+    <mtime>1722092345</mtime>
+    <size>193</size>
+    <md5>b971cb54d91f6a22c7279473e6b8ad99</md5>
+    <crc32>d165e268</crc32>
+    <sha1>980b9d54b968069794209972008020f93414ad78</sha1>
+    <format>Unknown</format>
+    <viruscheck>1722093892</viruscheck>
+  </file>
+  <file name="BV1aT42167FL_p1.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>BV1aT42167FL_p1.mp4</original>
+    <mtime>1722094085</mtime>
+    <size>8166896</size>
+    <md5>84d4fe90678fd8e74fa8a45b2ce7e2b5</md5>
+    <crc32>225fd959</crc32>
+    <sha1>a0afc5d026333c3ead98f6b6e9213a962199e5e5</sha1>
+    <length>224.96</length>
+    <width>1440</width>
+    <height>1080</height>
+  </file>
+  <file name="BV1aT42167FL_p1.info.json" source="original">
+    <mtime>1722092333</mtime>
+    <size>129249</size>
+    <md5>f86dcd449edfaf8b4ebfdbc8ad35ea59</md5>
+    <crc32>f0bc6964</crc32>
+    <sha1>e96b16797d3922e86aaa56071a8203f7fc44ba60</sha1>
+    <format>JSON</format>
+    <viruscheck>1722093892</viruscheck>
+  </file>
+  <file name="BV1aT42167FL_p1.jpg" source="original">
+    <mtime>1722092326</mtime>
+    <size>187779</size>
+    <md5>ba42c7aeade40309858de34987465f5e</md5>
+    <crc32>5e7396c8</crc32>
+    <sha1>ad705fe775d45901fdd224620d01d59a00891aef</sha1>
+    <format>JPEG</format>
+  </file>
+  <file name="BV1aT42167FL_p1.mp4" source="original">
+    <mtime>1722092354</mtime>
+    <size>8166896</size>
+    <md5>733836685091247200f213133bc607b7</md5>
+    <crc32>7f80dc8c</crc32>
+    <sha1>ccc14253efc01300d7b1c373a7adc090967d77e0</sha1>
+    <format>MPEG4</format>
+    <length>224.96</length>
+    <width>1440</width>
+    <height>1080</height>
+  </file>
+  <file name="BV1aT42167FL_p1.replies.json" source="original">
+    <mtime>1722092337</mtime>
+    <size>7846</size>
+    <md5>32996e84de9e56f887cc3254613f75d2</md5>
+    <crc32>f0c800d5</crc32>
+    <sha1>fef4599cf8743063644cbbe504f035b49288be9e</sha1>
+    <format>JSON</format>
+    <viruscheck>1722093892</viruscheck>
+  </file>
+  <file name="BV1aT42167FL_p1_itemimage.jpg" source="original">
+    <mtime>1722092330</mtime>
+    <size>187779</size>
+    <md5>ba42c7aeade40309858de34987465f5e</md5>
+    <crc32>5e7396c8</crc32>
+    <sha1>ad705fe775d45901fdd224620d01d59a00891aef</sha1>
+    <format>Item Image</format>
+  </file>
+  <file name="BV1aT42167FL_p1_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>BV1aT42167FL_p1.jpg</original>
+    <mtime>1722094100</mtime>
+    <size>5099</size>
+    <md5>6694077088367105d604f06f9b49b429</md5>
+    <crc32>836af213</crc32>
+    <sha1>72804baf7fe2c2b44b4a5e82566c6c1801187dde</sha1>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB.thumbs/BV1aT42167FL_p1_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>BV1aT42167FL_p1.mp4</original>
+    <mtime>1722093991</mtime>
+    <size>32457</size>
+    <md5>7d752c0b118716aa71df9f6a4d0de3af</md5>
+    <crc32>ee941f35</crc32>
+    <sha1>efdc246b61f29f350b3125b4abb571fce57f0c86</sha1>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB.thumbs/BV1aT42167FL_p1_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>BV1aT42167FL_p1.mp4</original>
+    <mtime>1722093999</mtime>
+    <size>32453</size>
+    <md5>55170f7207722c7544f24cd78e6c1cad</md5>
+    <crc32>a50e88c7</crc32>
+    <sha1>617a4cceea6b62dd181c4055fa74fc8d9b4da95e</sha1>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB.thumbs/BV1aT42167FL_p1_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>BV1aT42167FL_p1.mp4</original>
+    <mtime>1722094006</mtime>
+    <size>44211</size>
+    <md5>25093f70a32f57654e7a17ebc6b884d4</md5>
+    <crc32>6106f6d8</crc32>
+    <sha1>750b0e5ae7258bffc6f96545f125f393d358766a</sha1>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB.thumbs/BV1aT42167FL_p1_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>BV1aT42167FL_p1.mp4</original>
+    <mtime>1722094013</mtime>
+    <size>44219</size>
+    <md5>eb8ea8ccc056b1eba1167a2fd588d3c3</md5>
+    <crc32>1b2f3b96</crc32>
+    <sha1>494a4ed1baba41e236378c9d9b7b30fa94d72375</sha1>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB.thumbs/BV1aT42167FL_p1_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>BV1aT42167FL_p1.mp4</original>
+    <mtime>1722094021</mtime>
+    <size>44212</size>
+    <md5>3d15acd3104ec2d3d11bab0e5b2fca89</md5>
+    <crc32>a8fbdbe6</crc32>
+    <sha1>d0ae1e0b8fcf5a008b098e0389c4a436824ecbb8</sha1>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB.thumbs/BV1aT42167FL_p1_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>BV1aT42167FL_p1.mp4</original>
+    <mtime>1722094028</mtime>
+    <size>44231</size>
+    <md5>ac75e8ce85c7e0dd95f33d20b4f1245e</md5>
+    <crc32>d25e7f06</crc32>
+    <sha1>5eaa48fb5a0e1d57c395a9e30fb8dbe297a7a33c</sha1>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB.thumbs/BV1aT42167FL_p1_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>BV1aT42167FL_p1.mp4</original>
+    <mtime>1722094035</mtime>
+    <size>44222</size>
+    <md5>1412791af291ca22593ff2a414521e51</md5>
+    <crc32>c88782cc</crc32>
+    <sha1>892c445f7d9212711f2aea8c2b838269f31e933f</sha1>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB.thumbs/BV1aT42167FL_p1_000220.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>BV1aT42167FL_p1.mp4</original>
+    <mtime>1722094039</mtime>
+    <size>44211</size>
+    <md5>25093f70a32f57654e7a17ebc6b884d4</md5>
+    <crc32>6106f6d8</crc32>
+    <sha1>750b0e5ae7258bffc6f96545f125f393d358766a</sha1>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB_archive.torrent" source="metadata">
+    <btih>cbb3d843d3455031e08dd823a832c84d11fb94eb</btih>
+    <mtime>1722155274</mtime>
+    <size>4251</size>
+    <md5>7869ae38b8e649737e59d324cb7a7349</md5>
+    <crc32>f2b608a9</crc32>
+    <sha1>092f9901d2ab674fd38790120eb6799bb4f8e628</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d99387dd352627c3592a2c4acee3178a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB_meta.sqlite" source="original">
+    <mtime>1722092362</mtime>
+    <size>36864</size>
+    <md5>f18d9696a73157f6e4a77851e061ffcd</md5>
+    <crc32>8e107841</crc32>
+    <sha1>eb4ed08efc18a58d15cedc78e5a723d6aabd0138</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="BiliBili-BV1aT42167FL_p1-LF5T2VB_meta.xml" source="original">
+    <mtime>1722155273</mtime>
+    <size>1353</size>
+    <md5>f5d244ff5b2e01287604ade0028622a4</md5>
+    <crc32>29791a8c</crc32>
+    <sha1>0c161d102f9f68984a12b4a5ec5c21856a7da68b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1722092368</mtime>
+    <size>2006</size>
+    <md5>d49239ea1e0f97d41702456cf2819b17</md5>
+    <crc32>9c97a698</crc32>
+    <sha1>336d0b757208a678c5a7579231e9f1391a4b8e6a</sha1>
+    <format>Item Tile</format>
+  </file>
+</files>

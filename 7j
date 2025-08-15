@@ -1,0 +1,4 @@
+Request Id: dea95f07-8074-42ae-97ad-09d38ec98d00
+Correlation Id: ba056b5e-3d99-49f8-bf13-9bd13f79e9b8
+Timestamp: 2025-02-08T03:57:49Z
+Message: AADSTS500200: User account 'johnjamesna@outlook.com' is a personal Microsoft account. Personal Microsoft accounts are not supported for this application unless explicitly invited to an organization. Try signing out and signing back in with an organizational account.

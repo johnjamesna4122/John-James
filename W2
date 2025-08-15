@@ -1,0 +1,1 @@
+rearrange(x, 'b c h (w w2) -> b c (h w2) w', w2=2)

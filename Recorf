@@ -1,0 +1,138 @@
+THANK YOU JESUS CHRIST SON OF LIVING GOD 
+
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+
+<leader>01030nam a2200265Ia 4500</leader>
+
+<controlfield tag="001">combatingmoneyla0000unse</controlfield>
+
+<controlfield tag="003">CaSfIA</controlfield>
+
+<controlfield tag="005">20240619141308.0</controlfield>
+
+<controlfield tag="006">m o d</controlfield>
+
+<controlfield tag="007">cr||||||||||||</controlfield>
+
+<controlfield tag="008">050810s2005 enk ob i000 0 eng d</controlfield>
+
+<datafield tag="020" ind1=" " ind2=" ">
+
+<subfield code="z">0850928133</subfield>
+
+</datafield>
+
+<datafield tag="035" ind1=" " ind2=" ">
+
+<subfield code="a">(OCoLC)927178710</subfield>
+
+</datafield>
+
+<datafield tag="040" ind1=" " ind2=" ">
+
+<subfield code="a">CUV</subfield>
+
+<subfield code="c">CUV</subfield>
+
+<subfield code="d">CNU</subfield>
+
+<subfield code="d">CaSfIA</subfield>
+
+</datafield>
+
+<datafield tag="245" ind1="0" ind2="0">
+
+<subfield code="a">Combating money laundering and terrorist financing :</subfield>
+
+<subfield code="b">a model of best practice for the financial sector, the professions and other designated businesses.</subfield>
+
+</datafield>
+
+<datafield tag="260" ind1=" " ind2=" ">
+
+<subfield code="a">London :</subfield>
+
+<subfield code="b">Commonwealth Secretariat,</subfield>
+
+<subfield code="c">c2005.</subfield>
+
+</datafield>
+
+<datafield tag="300" ind1=" " ind2=" ">
+
+<subfield code="a">1 online resource (x, 184 pages)</subfield>
+
+</datafield>
+
+<datafield tag="490" ind1="1" ind2=" ">
+
+<subfield code="a">Economic paper ;</subfield>
+
+<subfield code="v">70</subfield>
+
+</datafield>
+
+<datafield tag="504" ind1=" " ind2=" ">
+
+<subfield code="a">Includes bibliographical references (p. 184)</subfield>
+
+</datafield>
+
+<datafield tag="650" ind1=" " ind2="0">
+
+<subfield code="a">Money laundering.</subfield>
+
+</datafield>
+
+<datafield tag="650" ind1=" " ind2="0">
+
+<subfield code="a">Terrorism</subfield>
+
+<subfield code="x">Prevention.</subfield>
+
+</datafield>
+
+<datafield tag="710" ind1="2" ind2=" ">
+
+<subfield code="a">Commonwealth Secretariat.</subfield>
+
+</datafield>
+
+<datafield tag="830" ind1=" " ind2="0">
+
+<subfield code="a">Economic paper (Commonwealth Secretariat) ;</subfield>
+
+<subfield code="v">70.</subfield>
+
+</datafield>
+
+<datafield tag="856" ind1="4" ind2="0">
+
+<subfield code="u">https://archive.org/details/combatingmoneyla0000unse</subfield>
+
+<subfield code="z">Free eBook from the Internet Archive</subfield>
+
+</datafield>
+
+<datafield tag="856" ind1="4" ind2="0">
+
+<subfield code="u">https://openlibrary.org/books/OL8265967M</subfield>
+
+<subfield code="z">Additional information and access via Open Library</subfield>
+
+</datafield>
+
+<datafield tag="955" ind1=" " ind2=" ">
+
+<subfield code="q">combatingmoneyla0000unse</subfield>
+
+<subfield code="b">ark:/13960/s29bvnk8v8h</subfield>
+
+</datafield>
+
+</record>
+
+</collection>
+

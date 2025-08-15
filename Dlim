@@ -1,0 +1,142 @@
+
+
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+
+<leader>00573nam a2200205 a 4500</leader>
+
+<controlfield tag="001">copyprocessing0000kups</controlfield>
+
+<controlfield tag="003">CaSfIA</controlfield>
+
+<controlfield tag="005">20240622134759.0</controlfield>
+
+<controlfield tag="006">m o d</controlfield>
+
+<controlfield tag="007">cr||||||||||||</controlfield>
+
+<controlfield tag="008">820809s1982 caua o 00110 eng </controlfield>
+
+<datafield tag="010" ind1=" " ind2=" ">
+
+<subfield code="z"> 81084583 </subfield>
+
+</datafield>
+
+<datafield tag="020" ind1=" " ind2=" ">
+
+<subfield code="z">0028189000 (pbk.)</subfield>
+
+</datafield>
+
+<datafield tag="035" ind1=" " ind2=" ">
+
+<subfield code="a">(OCoLC)1348909064</subfield>
+
+</datafield>
+
+<datafield tag="040" ind1=" " ind2=" ">
+
+<subfield code="d">CaSfIA</subfield>
+
+</datafield>
+
+<datafield tag="050" ind1="0" ind2=" ">
+
+<subfield code="a">Z48</subfield>
+
+<subfield code="b">.K85 1982</subfield>
+
+</datafield>
+
+<datafield tag="082" ind1="0" ind2=" ">
+
+<subfield code="a">686.4</subfield>
+
+<subfield code="2">19</subfield>
+
+</datafield>
+
+<datafield tag="100" ind1="1" ind2="0">
+
+<subfield code="a">Kupsh, Joyce.</subfield>
+
+</datafield>
+
+<datafield tag="245" ind1="1" ind2="0">
+
+<subfield code="a">Copy processing /</subfield>
+
+<subfield code="c">Joyce Kupsh.</subfield>
+
+</datafield>
+
+<datafield tag="250" ind1=" " ind2=" ">
+
+<subfield code="a">2nd ed.</subfield>
+
+</datafield>
+
+<datafield tag="260" ind1="0" ind2=" ">
+
+<subfield code="a">Encino, Calif. :</subfield>
+
+<subfield code="b">Glencoe Pub. Co. ;</subfield>
+
+<subfield code="a">London :</subfield>
+
+<subfield code="b">Collier Macmillan,</subfield>
+
+<subfield code="c">c1982.</subfield>
+
+</datafield>
+
+<datafield tag="300" ind1=" " ind2=" ">
+
+<subfield code="a">1 online resource (v, 170 pages :</subfield>
+
+<subfield code="b">illustrations)</subfield>
+
+</datafield>
+
+<datafield tag="500" ind1=" " ind2=" ">
+
+<subfield code="a">Includes index.</subfield>
+
+</datafield>
+
+<datafield tag="650" ind1=" " ind2="0">
+
+<subfield code="a">Copying processes.</subfield>
+
+</datafield>
+
+<datafield tag="856" ind1="4" ind2="0">
+
+<subfield code="u">https://archive.org/details/copyprocessing0000kups</subfield>
+
+<subfield code="z">Free eBook from the Internet Archive</subfield>
+
+</datafield>
+
+<datafield tag="856" ind1="4" ind2="0">
+
+<subfield code="u">https://openlibrary.org/books/OL3794995M</subfield>
+
+<subfield code="z">Additional information and access via Open Library</subfield>
+
+</datafield>
+
+<datafield tag="955" ind1=" " ind2=" ">
+
+<subfield code="q">copyprocessing0000kups</subfield>
+
+<subfield code="b">ark:/13960/s2hd7hq2ngp</subfield>
+
+</datafield>
+
+</record>
+
+</collection>
+

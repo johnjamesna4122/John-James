@@ -1,0 +1,4 @@
+from einops import einsum, pack, unpack
+# einsum is like ... einsum, generic and flexible dot-product
+# but 1) axes can be multi-lettered  2) pattern goes last 3) works with multiple frameworks
+C = einsum(A, B, 'b t1 head c, b t2 head c -> b head t1 t2')

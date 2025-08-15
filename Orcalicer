@@ -1,0 +1,57 @@
+OrcaSlicer Version
+
+2.2.0 RC
+
+Operating System (OS)
+
+Linux
+
+OS Version
+
+Linux Mint DE version 6 (faye)
+
+Additional system information
+
+CPU: iNTEL i9
+RAM: 128GB
+GPU: Nvidia RTX A5000
+DISK: 1TB SSD
+
+Printer
+
+Sovol SV07 Plus
+
+How to reproduce
+
+Clear all saved OrcaSlicer config and cache settings
+Launch
+Add Sovol printers (SV06, SV06 Plus, SV07 Plus)
+New Project
+Add items to plate (items don't appear to matter)
+Select the SV07 Plus Printer
+Click the Network settings icon
+Add the settings and test the link (succeeds)
+Close the network settings
+Return to the Prepare tab
+
+Actual results
+
+UI freezes for ~30 seconds
+Hard crash with a SEGFAULT
+
+Expected results
+
+I should have been able to return to the plate and complete the prep steps.
+
+Project file & Debug log uploads
+
+No Project file at this point
+Log file included
+debug_sun_jan_11_11_07_55_37025.log
+
+Checklist of files to include Log file Project fileAnything else?
+
+After having this happen with the AppImage, I cloned the source and built from scratch. Running both the binary from the generated tarbal or from the generated AppImage resut in the same log entry and error.
+
+The BETA 2 build ran properly on the system from both the AppImage and a locally built version
+
