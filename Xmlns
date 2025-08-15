@@ -1,0 +1,82 @@
+ The document tree is shown below.
+
+<record xmlns="http://www.loc.gov/MARC21/slim">
+
+<leader>00491cam a22001575u 4500</leader>
+
+<controlfield tag="001">193206</controlfield>
+
+<controlfield tag="008">870414s1908 nyu 00000 eng u</controlfield>
+
+<datafield tag="035" ind1=" " ind2=" ">
+
+<subfield code="a">(CStRLIN)NJPT07884934X</subfield>
+
+</datafield>
+
+<datafield tag="035" ind1=" " ind2=" ">
+
+<subfield code="a">(CaOTULAS)107884934</subfield>
+
+</datafield>
+
+<datafield tag="035" ind1=" " ind2=" ">
+
+<subfield code="9">AAW5891PS</subfield>
+
+</datafield>
+
+<datafield tag="100" ind1="1" ind2="0">
+
+<subfield code="a">Broughton, Leonard Gaston,</subfield>
+
+<subfield code="d">1864-1936.</subfield>
+
+</datafield>
+
+<datafield tag="245" ind1="1" ind2="0">
+
+<subfield code="a">Salvation and the old theology :</subfield>
+
+<subfield code="b">pivot points in Romans ...</subfield>
+
+</datafield>
+
+<datafield tag="250" ind1=" " ind2=" ">
+
+<subfield code="a">[2nd ed.].</subfield>
+
+</datafield>
+
+<datafield tag="260" ind1="0" ind2=" ">
+
+<subfield code="a">New York :</subfield>
+
+<subfield code="b">F. H. Revell,</subfield>
+
+<subfield code="c">[c1908].</subfield>
+
+</datafield>
+
+<datafield tag="300" ind1=" " ind2=" ">
+
+<subfield code="a">188 p. ;</subfield>
+
+<subfield code="c">20 cm.</subfield>
+
+</datafield>
+
+<datafield tag="630" ind1="0" ind2="0">
+
+<subfield code="a">Bible.</subfield>
+
+<subfield code="p">N.T.</subfield>
+
+<subfield code="p">Romans</subfield>
+
+<subfield code="x">Theology.</subfield>
+
+</datafield>
+
+</record>
+

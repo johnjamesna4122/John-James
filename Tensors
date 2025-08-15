@@ -1,0 +1,5 @@
+from einops import pack, unpack
+# pack and unpack allow reversibly 'packing' multiple tensors into one.
+# Packed tensors may be of different dimensionality:
+packed,  ps = pack([class_token_bc, image_tokens_bhwc, text_tokens_btc], 'b * c')
+class_emb_bc, image_emb_bhwc, text_emb_btc = unpack(transformer(packed), ps, 'b * c')

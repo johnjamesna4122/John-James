@@ -1,0 +1,166 @@
+have any style information associated with it. The document tree is shown below.
+<files>
+<file name="Vote_By_Mail_TV_30_Seconds.en.vtt" source="original">
+<mtime>1613093748</mtime>
+<size>3630</size>
+<md5>348a2065a7ea35008fa86a0427057de4</md5>
+<crc32>e934e024</crc32>
+<sha1>78ffec0672cdf51c268eea08157826fefacc7fdb</sha1>
+<format>Web Video Text Tracks</format>
+</file>
+<file name="Vote_By_Mail_TV_30_Seconds.es.vtt" source="original">
+<mtime>1613093754</mtime>
+<size>682</size>
+<md5>5942ffd46d4d808ca0b57601c5e0706f</md5>
+<crc32>00f3bf1a</crc32>
+<sha1>793976d14303365f0e330da2950fa5f56be63b70</sha1>
+<format>Web Video Text Tracks</format>
+</file>
+<file name="Vote_By_Mail_TV_30_Seconds.mp3" source="derivative">
+<bitrate>96</bitrate>
+<format>MP3</format>
+<original>Vote_By_Mail_TV_30_Seconds.mpeg4</original>
+<mtime>1612712642</mtime>
+<size>367938</size>
+<md5>ce22364bc5153ac66da561affb762031</md5>
+<crc32>d7facded</crc32>
+<sha1>616668da2be9159197336957624e12aa39557931</sha1>
+<length>30.51</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Vote_By_Mail_TV_30_Seconds.mp4" source="derivative">
+<format>h.264</format>
+<original>Vote_By_Mail_TV_30_Seconds.mpeg4</original>
+<mtime>1612712814</mtime>
+<size>2333822</size>
+<md5>cbaa0c3a19c6c97a4afe7235fff09f45</md5>
+<crc32>43996eee</crc32>
+<sha1>9feee17df52fa49d14b02ab5cf303ec6379c1f7c</sha1>
+<length>30.51</length>
+<height>360</height>
+<width>480</width>
+</file>
+<file name="Vote_By_Mail_TV_30_Seconds.mpeg4" source="original">
+<mtime>1612676955</mtime>
+<size>2360544</size>
+<md5>28e5b92a7861baa784eb844a53808e50</md5>
+<crc32>424e9021</crc32>
+<sha1>94acf982848c8111623cae1ae2694e328bf182ad</sha1>
+<format>MPEG4</format>
+<length>30.46</length>
+<height>360</height>
+<width>480</width>
+</file>
+<file name="Vote_By_Mail_TV_30_Seconds.png" source="derivative">
+<format>PNG</format>
+<original>Vote_By_Mail_TV_30_Seconds.mp3</original>
+<mtime>1612713001</mtime>
+<size>30296</size>
+<md5>155c609294479da8550b337bf74deb86</md5>
+<crc32>ef590ff2</crc32>
+<sha1>74b840eca71a415d4c5ad069f4a7be98b340896b</sha1>
+</file>
+<file name="__ia_thumb.jpg" source="original">
+<mtime>1613095145</mtime>
+<size>7424</size>
+<md5>8014c44bdf92a7f0e41f417541c5fbaa</md5>
+<crc32>dffa45fe</crc32>
+<sha1>92edfd4a4d61eff3ed22bc3117f863b84f4d9aa3</sha1>
+<format>Item Tile</format>
+<rotation>0</rotation>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds.thumbs/Vote_By_Mail_TV_30_Seconds_000001.jpg" source="derivative">
+<format>Thumbnail</format>
+<original>Vote_By_Mail_TV_30_Seconds.mpeg4</original>
+<mtime>1612712687</mtime>
+<size>36055</size>
+<md5>030a2a7f7e6fdfb1b26c8adc31c64ab5</md5>
+<crc32>0d3426d1</crc32>
+<sha1>2f60aa5d8a713f341b5f2e34ef1a465d4bfef897</sha1>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds.thumbs/Vote_By_Mail_TV_30_Seconds_000006.jpg" source="derivative">
+<format>Thumbnail</format>
+<original>Vote_By_Mail_TV_30_Seconds.mpeg4</original>
+<mtime>1612712689</mtime>
+<size>25578</size>
+<md5>1fe1fb2497039344d410f54c7c856168</md5>
+<crc32>5f922335</crc32>
+<sha1>e727735cf6fca76da30fcda0f8987ec85e8e6b68</sha1>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds.thumbs/Vote_By_Mail_TV_30_Seconds_000009.jpg" source="derivative">
+<format>Thumbnail</format>
+<original>Vote_By_Mail_TV_30_Seconds.mpeg4</original>
+<mtime>1612712691</mtime>
+<size>29430</size>
+<md5>5e2945077abd34c2030f3e001a29c836</md5>
+<crc32>8442d5c9</crc32>
+<sha1>dfef704c704b875e71367a5c2781db9070069fee</sha1>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds.thumbs/Vote_By_Mail_TV_30_Seconds_000014.jpg" source="derivative">
+<format>Thumbnail</format>
+<original>Vote_By_Mail_TV_30_Seconds.mpeg4</original>
+<mtime>1612712693</mtime>
+<size>8939</size>
+<md5>792d5e9a8206f422e815141c43cc22d7</md5>
+<crc32>574d030d</crc32>
+<sha1>3353f706e2667ea1c388c8485d207dd0b8920751</sha1>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds.thumbs/Vote_By_Mail_TV_30_Seconds_000020.jpg" source="derivative">
+<format>Thumbnail</format>
+<original>Vote_By_Mail_TV_30_Seconds.mpeg4</original>
+<mtime>1612712695</mtime>
+<size>33412</size>
+<md5>72fafa54724f877b1b54cf8789f45bde</md5>
+<crc32>4eaa82bf</crc32>
+<sha1>f138c8476eedf15f5e29ad3d4ab6a6dd782e228c</sha1>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds.thumbs/Vote_By_Mail_TV_30_Seconds_000025.jpg" source="derivative">
+<format>Thumbnail</format>
+<original>Vote_By_Mail_TV_30_Seconds.mpeg4</original>
+<mtime>1612712697</mtime>
+<size>47523</size>
+<md5>34e15f9e9a02f5ce383e71d3cf1357fb</md5>
+<crc32>00e9d222</crc32>
+<sha1>ee32d3d4060b67771fcfbd511a1032a81870692d</sha1>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds.thumbs/Vote_By_Mail_TV_30_Seconds_000029.jpg" source="derivative">
+<format>Thumbnail</format>
+<original>Vote_By_Mail_TV_30_Seconds.mpeg4</original>
+<mtime>1612712698</mtime>
+<size>47440</size>
+<md5>b5c36aa68434b855908a3832574f8c92</md5>
+<crc32>6a7f365e</crc32>
+<sha1>e163c420b2f800bc5d4e294a5a681afd5aa51f48</sha1>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds_archive.torrent" source="metadata">
+<btih>c8eeb2f57aa71428a835bf3995d28f46ba0587b1</btih>
+<mtime>1613093793</mtime>
+<size>3089</size>
+<md5>625789ec684a2b7164cfa625402ee13a</md5>
+<crc32>3b7de269</crc32>
+<sha1>40129599db96fdb2effc441b9286794e280697bc</sha1>
+<format>Archive BitTorrent</format>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds_files.xml" source="original">
+<format>Metadata</format>
+<md5>436f494c67b19b80cb9ae6b60f6ff580</md5>
+<summation>md5</summation>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds_meta.sqlite" source="original">
+<mtime>1613093756</mtime>
+<size>28672</size>
+<md5>7322b603d87f247cee9c0e6d11a728bc</md5>
+<crc32>53ca7d37</crc32>
+<sha1>a78ca93b848f0f702cbd15cc4963aa3b339b2c39</sha1>
+<format>Metadata</format>
+</file>
+<file name="cuyoh-Vote_By_Mail_TV_30_Seconds_meta.xml" source="original">
+<mtime>1612676970</mtime>
+<size>2312</size>
+<md5>780d2538874dc8f2823cfd479fb27d00</md5>
+<crc32>3de9c6e1</crc32>
+<sha1>ddef43087bbd9b5c462b5e55f84c5d07a2fdec06</sha1>
+<format>Metadata</format>
+</file>
+</files>

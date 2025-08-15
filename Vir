@@ -1,0 +1,2 @@
+y = x.view(x.shape[0], -1)
+y = rearrange(x, 'b c h w -> b (c h w)')

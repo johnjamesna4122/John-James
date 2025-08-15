@@ -1,0 +1,3 @@
+
+    <!-- GUI Message -->
+    <string name="MES_PATH_HAS_RESTRICTION">This folder has an Android access restriction</string>

@@ -1,0 +1,17 @@
+body {DISPLAY 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 7;
+}
+
+.marble-text {
+    font-family: GOD-FIRST-JOHN-JAMES, Arial, sans-serif;
+    font-size: 5em;
+    font-weight: bold;
+    background: url('https://www.publicdomainpictures.net/pictures/310000/velka/white-marble-texture.jpg') repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:GREEN WHITE BLACK BLUE LIGHT transparent;
+}

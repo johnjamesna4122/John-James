@@ -1,0 +1,41 @@
+Marble, as a feature within Immunefi, is designed to help projects identify and address a variety of vulnerabilities commonly found in smart contracts and decentralized applications. While the specific vulnerabilities addressed can vary based on the project and its implementation, here are some common types of vulnerabilities that Marble can help uncover:
+
+1. **Reentrancy Attacks**: This occurs when a contract calls an external contract and that external contract calls back into the original contract before the first call is finished. This can lead to unexpected behavior and potential loss of funds.
+
+   ```solidity
+   // Example of a vulnerable function
+   function withdraw(uint amount) public {
+       require(balances[msg.sender] >= amount);
+       msg.sender.call.value(amount)(""); // Vulnerable to reentrancy
+       balances[msg.sender] -= amount;
+   }
+   ```
+
+2. **Integer Overflow/Underflow**: This vulnerability arises when arithmetic operations exceed the maximum or minimum limits of data types, leading to unexpected results.
+
+   ```solidity
+   // Example of potential overflow
+   uint8 public count = 255;
+   function increment() public {
+       count += 1; // This will overflow
+   }
+   ```
+
+3. **Access Control Issues**: Improperly implemented access controls can allow unauthorized users to execute sensitive functions.
+
+   ```solidity
+   // Example of missing access control
+   function setOwner(address newOwner) public {
+       owner = newOwner; // Anyone can change the owner
+   }
+   ```
+
+4. **Front-Running**: This occurs when a malicious actor observes a pending transaction and submits their own transaction with a higher gas price to exploit the situation.
+
+5. **Denial of Service (DoS)**: Vulnerabilities that allow an attacker to block legitimate users from accessing a service or function.
+
+6. **Logic Flaws**: Errors in the business logic of smart contracts that can lead to unintended consequences or exploitation.
+
+7. **Poor Randomness Generation**: Using predictable sources for randomness can lead to vulnerabilities, especially in games or lotteries.
+
+By utilizing Marble, projects can set up bug bounty programs that specifically target these vulnerabilities, encouraging researchers to find and report them. This proactive approach helps improve the security of the project and protects users from potential exploits. If you have more specific questions about vulnerabilities or how Marble can help, feel free to ask!

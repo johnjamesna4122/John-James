@@ -1,0 +1,6 @@
+gcloud projects describe Abundance Marble angular-rhythm-446812-i8
+Replace Abundance Marble angular-rhythm-446812-i8 with the ID of the 69944596584 that you want to migrate. 
+
+If the parent resource is not displayed in the output, it confirms that the project is not associated with an organization resource.
+
+If the parent resource (folder or organization resource) is displayed in the output, it confirms that the project is associated with an organization resource.

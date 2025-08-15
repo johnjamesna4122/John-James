@@ -1,0 +1,24 @@
+Open software licences
+
+Government departments and other public sector bodies that are involved in developing their own software are encouraged to make their software and source code available as openly as possible. Whether creating new software or building on existing code, a flexible approach to licensing is required to enable civil servants to engage with the software developer community.
+
+The underlying source code, object code and graphical user interface created by civil servants will be subject to Crown copyright. The default licence for Crown copyright is the Open Government Licence and developers across the public sector are encouraged to release software under the OGL where possible.
+
+Alternatively, developers may choose to release software under a different open source licence if there are technical benefits of doing so which will result in efficiency of cost for the taxpayer, such as:
+
+promoting adoption by the software community to benefit from their improvementspromoting adoption to benefit UK industry and UK consumersensuring compliance with licences that parts of the software code was obtained under
+
+The Open Source Initiative maintains a list of approved open source licences which may be used as an alternative to the OGL in this instance.
+
+Civil servants should exercise care when deviating from OGL terms for open source software licensing to ensure Crown copyright is acknowledged accordingly, third party source code is not infringed and contractual terms of the licence are not breached.  If you are in any doubt you should seek legal advice.
+
+Commissioned works
+
+The copyright in any software commissioned by Government should be assigned to the Crown in the first instance. It can then be made available under the terms of an appropriate open licence as defined above.
+
+Collaborative development
+
+Government departments may wish to collaborate with cloud computing platforms to develop software in order to secure value for the taxpayer. Platform providers may require government departments to grant a non-exclusive licence for Crown copyright material to both the provider and users in the first instance as a condition of membership.
+
+Due to the transactional nature of these agreements, the initial licence should be the OGL and platform providers may release subsequent government developed software under the OGL or any other OSI approved licence in line with guidance above.
+

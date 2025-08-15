@@ -1,0 +1,4 @@
+Request Id: 327f58c5-abf2-4f1a-893d-a9534652ac00
+Correlation Id: f1099ed4-cb53-4134-a347-fb0ee2fa2729
+Timestamp: 2025-02-08T03:48:30Z
+Message: AADSTS900561: The endpoint only accepts POST requests. Received a GET request.

@@ -1,0 +1,8 @@
+
+<div> 
+<p>Visible Content Above</p> 
+<p data-mf-replace=""> 
+This content will be hidden to Mouseflow
+</p> 
+<p>Visible Content Below</p> 
+</div>

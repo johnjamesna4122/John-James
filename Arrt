@@ -1,0 +1,1 @@
+List<String> testDeviceIds = Arrays.asList("33BE2250B43518CCDA7DE426D04EE231"); RequestConfiguration configuration = new 

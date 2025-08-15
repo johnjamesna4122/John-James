@@ -1,0 +1,42 @@
+import android.os.Bundle
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import androidx.fragment.app.Fragment
+import androidx.navigation.NavController
+import io.sentry.android.navigation.SentryNavigationListener
+import io.sentry.Sentry
+
+class HomeFragment : Fragment() {
+
+  private val sentryNavListener = SentryNavigationListener()
+
+  override fun onCreateView(
+    inflater: LayoutInflater,
+    container: ViewGroup?,
+    savedInstanceState: Bundle?
+  ): View {
+    // generated databinding
+    return FragmentHomeBinding.inflate(inflater).apply {
+        this.sendMessage.setOnClickListener {
+            Sentry.captureMessage("Some message.")
+        }
+        this.openFirstFragment.setOnClickListener {
+          findNavController().navigate(R.id.fragment_a)
+        }
+        this.openSecondFragment.setOnClickListener {
+          findNavController().navigate(R.id.fragment_b)
+        }
+    }.root
+  }
+
+  override fun onResume() {
+    super.onResume()
+    findNavController().addOnDestinationChangedListener(sentryNavListener)
+  }
+
+  override fun onPause() {
+    super.onPause()
+    findNavController().removeOnDestinationChangedListener(sentryNavListener)
+  }
+}

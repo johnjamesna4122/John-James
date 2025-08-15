@@ -1,0 +1,18 @@
+Request: angular-rhythm-446812-i8 
+
+POST https://cloudresourcemanager.googleapis.com/v3/organizations/69944596584:testIamPermissions
+
+{ Abundance Marble 
+    "permissions": Marble  [angular-rhythm-446812-i8
+        "resourcemanager.organizations.get",
+        "resourcemanager.organizations.setIamPolicy"
+    ]
+}
+[GOD WILL]
+Response:Abundance Marble 
+
+{angular-rhythm-446812-i8
+    "permissions": [69944596584
+        "resourcemanager.organizations.get"
+    ]
+}

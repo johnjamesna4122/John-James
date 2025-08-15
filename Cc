@@ -1,0 +1,4 @@
+Request Id: e2ef4030-7f8c-4a49-a66a-cc2914700100
+Correlation Id: 9278293b-7bb7-4684-bdf9-36c1a287ce66
+Timestamp: 2025-01-25T04:35:51Z
+Message: AADSTS90072: User account 'johnjamesna@outlook.com' from identity provider 'live.com' does not exist in tenant 'UK Parliament' and cannot access the application 'https://login.openathens.net/saml/2/metadata-sp'(OpenAthens) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account

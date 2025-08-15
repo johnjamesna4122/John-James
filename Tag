@@ -1,0 +1,181 @@
+
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+
+<leader>01237cam a2200349 a 4500</leader>
+
+<controlfield tag="001">understandingter0000witt</controlfield>
+
+<controlfield tag="003">CaSfIA</controlfield>
+
+<controlfield tag="005">20240912223739.0</controlfield>
+
+<controlfield tag="006">m o d</controlfield>
+
+<controlfield tag="007">cr||||||||||||</controlfield>
+
+<controlfield tag="008">110329s2011 enk ob 001 0 eng </controlfield>
+
+<datafield tag="010" ind1=" " ind2=" ">
+
+<subfield code="z"> 2011013819</subfield>
+
+</datafield>
+
+<datafield tag="016" ind1="7" ind2=" ">
+
+<subfield code="a">015771537</subfield>
+
+<subfield code="2">Uk</subfield>
+
+</datafield>
+
+<datafield tag="020" ind1=" " ind2=" ">
+
+<subfield code="z">9780230291843 (hardback)</subfield>
+
+</datafield>
+
+<datafield tag="020" ind1=" " ind2=" ">
+
+<subfield code="z">0230291848 (hardback)</subfield>
+
+</datafield>
+
+<datafield tag="035" ind1=" " ind2=" ">
+
+<subfield code="a">(OCoLC)759165992</subfield>
+
+</datafield>
+
+<datafield tag="040" ind1=" " ind2=" ">
+
+<subfield code="a">DLC</subfield>
+
+<subfield code="c">DLC</subfield>
+
+<subfield code="d">YDX</subfield>
+
+<subfield code="d">BTCTA</subfield>
+
+<subfield code="d">YDXCP</subfield>
+
+<subfield code="d">UKMGB</subfield>
+
+<subfield code="d">CDX</subfield>
+
+<subfield code="d">BWX</subfield>
+
+<subfield code="d">CaSfIA</subfield>
+
+</datafield>
+
+<datafield tag="042" ind1=" " ind2=" ">
+
+<subfield code="a">pcc</subfield>
+
+</datafield>
+
+<datafield tag="050" ind1="0" ind2="4">
+
+<subfield code="a">HV6431</subfield>
+
+<subfield code="b">.W5664 2011</subfield>
+
+</datafield>
+
+<datafield tag="082" ind1="0" ind2="4">
+
+<subfield code="a">363.325</subfield>
+
+<subfield code="2">22</subfield>
+
+</datafield>
+
+<datafield tag="084" ind1=" " ind2=" ">
+
+<subfield code="a">POL037000</subfield>
+
+<subfield code="a">POL012000</subfield>
+
+<subfield code="a">POL023000</subfield>
+
+<subfield code="2">bisacsh</subfield>
+
+</datafield>
+
+<datafield tag="100" ind1="1" ind2=" ">
+
+<subfield code="a">Wittig, Timothy.</subfield>
+
+</datafield>
+
+<datafield tag="245" ind1="1" ind2="0">
+
+<subfield code="a">Understanding terrorist finance /</subfield>
+
+<subfield code="c">Timothy Wittig.</subfield>
+
+</datafield>
+
+<datafield tag="260" ind1=" " ind2=" ">
+
+<subfield code="a">Houndmills, Basingstoke, Hampshire ;</subfield>
+
+<subfield code="a">New York :</subfield>
+
+<subfield code="b">Palgrave Macmillan, </subfield>
+
+<subfield code="c">2011.</subfield>
+
+</datafield>
+
+<datafield tag="300" ind1=" " ind2=" ">
+
+<subfield code="a">1 online resource (xi, 238 pages)</subfield>
+
+</datafield>
+
+<datafield tag="504" ind1=" " ind2=" ">
+
+<subfield code="a">Includes bibliographical references and index.</subfield>
+
+</datafield>
+
+<datafield tag="650" ind1=" " ind2="0">
+
+<subfield code="a">Terrorism</subfield>
+
+<subfield code="x">Finance.</subfield>
+
+</datafield>
+
+<datafield tag="856" ind1="4" ind2="0">
+
+<subfield code="u">https://archive.org/details/understandingter0000witt</subfield>
+
+<subfield code="z">Free eBook from the Internet Archive</subfield>
+
+</datafield>
+
+<datafield tag="856" ind1="4" ind2="0">
+
+<subfield code="u">https://openlibrary.org/books/OL25060711M</subfield>
+
+<subfield code="z">Additional information and access via Open Library</subfield>
+
+</datafield>
+
+<datafield tag="955" ind1=" " ind2=" ">
+
+<subfield code="q">understandingter0000witt</subfield>
+
+<subfield code="b">ark:/13960/s2f27jzh59f</subfield>
+
+</datafield>
+
+</record>
+
+</collection>
+

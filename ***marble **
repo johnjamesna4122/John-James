@@ -1,0 +1,15 @@
+In the context of Immunefi, **Marble** refers to a feature that allows security researchers to create and manage their own bug bounty programs. Here are some key points about Marble:
+
+1. **Custom Bug Bounty Programs**: Marble enables projects to set up tailored bug bounty programs that fit their specific needs and security requirements.
+
+2. **Flexible Parameters**: Projects can define various parameters, such as:
+   - **Bounty rewards**: Set the amount of rewards for different types of vulnerabilities.
+   - **Scope**: Specify which assets or smart contracts are included in the bounty program.
+
+3. **Community Engagement**: Marble fosters community involvement by allowing researchers to contribute to the security of projects they are interested in.
+
+4. **Streamlined Reporting**: Researchers can report vulnerabilities directly through the Marble interface, making the process efficient and organized.
+
+5. **Visibility**: Projects using Marble can gain visibility in the security community, attracting more researchers to participate in their bug bounty programs.
+
+If you have any specific questions about how to use Marble or its features, feel free to ask!

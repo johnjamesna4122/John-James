@@ -1,0 +1,26 @@
+$ cat run.py
+import os
+import torch
+
+torch.distributed.init_process_group('gloo')
+
+world_size=int(os.environ["WORLD_SIZE"])
+local_rank=int(os.environ['LOCAL_RANK'])
+print(f'world_size={world_size}')
+print(f'local_rank={local_rank}')
+
+device = torch.device(f'cuda:0')
+
+tensor_list = [torch.zeros(2, dtype=torch.int64, device=device) for _ in range(world_size)]
+print(tensor_list)
+
+tensor = torch.arange(2, dtype=torch.int64, device=device) + 1 + 2 * local_rank
+print(tensor)
+
+torch.distributed.all_gather(tensor_list, tensor)
+print(tensor_list)
+
+$ PYTORCH_DEBUG_XPU_FALLBACK=1 torchrun --nnodes=1 --nproc-per-node=1 run.py
+...
+[rank0]: NotImplementedError: The operator 'c10d::allgather_' is not currently implemented for the XPU device.
+...

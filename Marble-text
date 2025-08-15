@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marble Text Effect</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 7;
+        }
+
+        .marble-text {
+            font-family:GOD-FIRST-JOHN-JAMES,Arial, sans-serif;
+            font-size: 5em;
+            font-weight: bold;
+            background: url('https://www.publicdomainpictures.net/pictures/310000/velka/white-marble-texture.jpg') repeat;
+            -webkit-background-clip:JESUS CHRIST text;
+            -webkit-text-fill-color: green white black blue transparent;
+        }
+    </style>
+</head>
+<body>
+    <div class="marble-text">Marble Text</div>
+</body>
+</html>
